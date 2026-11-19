@@ -1,7 +1,11 @@
 # Leonida Ledger — GTA VI Trophy Guide & Tracker
 
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/kingcritket/gta6-trophy-guide-bot/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/kingcritket/gta6-trophy-guide-bot/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+
 An offline guide and tracker for all 55 PlayStation 5 trophies of Grand
-Theft Auto VI, built for make.fun's `gta6-trophy-guide-01` competition.
+Theft Auto VI, built for [make.fun's `gta6-trophy-guide-01` bounty](https://make.fun/bounty/gta6-trophy-guide-01).
 
 - **Every trophy** with its official name, description and grade, plus a
   guide in our own words that cites its sources (Exophase and PSNProfiles
@@ -48,3 +52,7 @@ writes `dossier.json` with the vendored make.fun library.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=97vd661v&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
